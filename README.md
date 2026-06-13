@@ -45,8 +45,10 @@ Build a classification model that can accurately predict customer churn using cu
 Customer_churn_prediction/
 │
 ├── Customer_churn_prediction.ipynb
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── README.md
-```
+├── requirements.txt
+└── .gitignore
 
 ---
 
